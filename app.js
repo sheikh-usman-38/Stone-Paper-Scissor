@@ -52,7 +52,7 @@ const playGame= (userChoice)=>{
     
         showWinner(userWin, userChoice, compChoice);
     }
-        //apna college concept
+        //another way
 //     if(userChoice === compChoice){
 //         drawGame();
 //     }else{
